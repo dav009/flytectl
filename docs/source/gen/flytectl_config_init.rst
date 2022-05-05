@@ -52,7 +52,6 @@ Options
   -h, --help          help for init
       --host string   Endpoint of flyte admin
       --insecure      Enable insecure mode
-      --storage       Enable storage provider config
 
 Options inherited from parent commands
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
